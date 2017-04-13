@@ -1,0 +1,129 @@
+.white {
+	border :0px;
+	background-color: white;
+}  
+
+.ji {
+	margin-left: 2px;
+}
+
+.my-navbar {
+	background: rgb(60,195,180);
+	margin-top: 5px;
+}
+
+ li a {
+	color: white;
+}
+.tut {
+	margin-left: 87px;
+	color: white;
+
+}
+
+#co {
+	color: white;
+}
+
+.pop {
+	    margin-top: -2%;
+    margin-left: -1%;
+    width: 102%;
+    padding-bottom: 12%;
+    background: rgb(60,195,180);
+}
+
+.head h1{
+	font-size: 52px;
+	font-family: Myriad Hebrew;
+	font-weight: bolder;
+	color:#ffffff;
+}
+
+.head p{
+	color: white;
+}
+
+.ooo {
+	background: rgb(60,195,180);
+	border :2px solid white;
+	color: white;
+}
+
+.tik {
+	margin-left: 2px;
+}
+
+.lol{
+    
+    margin-left: -3%;
+    color: rgb(187,187,187);
+    margin-top: -1%;
+
+}
+
+.feature h4{
+	color: white;
+}
+
+.ko{
+	padding: 6px 2px;
+    border: none;
+    margin-top: -35%;
+    margin-left: 37%;
+}
+
+.min {
+	border-top:1px solid grey;
+	border-left: 1px solid grey;
+	border-right: 1px solid grey;
+	border-bottom: 2px solid green;
+}
+
+.pl{
+	margin-top: 5%;
+}
+
+.min h4{
+	color: grey;
+}
+
+.min h3{
+	color: grey;
+}
+
+.tt {
+	height: 40%;
+	background: rgb(60,195,180);
+	list-style: none;
+
+}
+
+.kill ul li {
+	list-style: none;
+	color: white;
+	font-size: 110%;
+	font-family: Arial;
+	font-weight: bold;
+	margin-top: 3%;
+	margin-left: 13%;
+
+}
+
+#jk{
+	font-size: 198%;
+}
+
+.featurec{
+	margin-top: 0%;
+}
+
+.chik{
+	height: 4%;
+	width: 95%;
+	background: rgb(45,168,155);
+}
+
+.my-navbar2{
+	color: rgb(45,168,155);
+}
